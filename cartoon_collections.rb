@@ -3,7 +3,7 @@
 list = ["Doc", "Dopey", "Bashful", "Grumpy"]
 def roll_call_dwarves(list)
   index = 0 
-  list.each_with_index {|name,index| puts "#{index + 1}"
+  list.each_with_index {|name,index| puts "#{index + 1}.#{name}"
 end
 
 def summon_captain_planet# code an argument here

@@ -21,8 +21,9 @@ end
 # code an argument here
 # Your code here
 short_words = ["puff", "go", "two"]
-assorted_words = 
-def long_planeteer_calls
+assorted_words = ["two", "go", "industrious", "bop"]
+
+def long_planeteer_calls(words)
   
 end
 

@@ -33,7 +33,8 @@ end
 
 # code an argument here
 # the array below is here to help
-snacks = 
+snacks = ["crackers", "gouda", "thyme"]
+soup = 
 def find_the_cheese
   
   cheese_types = ["cheddar", "gouda", "camembert"]

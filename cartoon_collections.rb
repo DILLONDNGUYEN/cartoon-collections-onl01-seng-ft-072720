@@ -12,7 +12,7 @@ end
 planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 def summon_captain_planet(group)
   planeteer_calls = []
-  planeteer_calls.map do |calls|
+  group.map do |calls|
     planeteer_calls << "#{calls.capitalize}!"
   end
     planeteer_calls

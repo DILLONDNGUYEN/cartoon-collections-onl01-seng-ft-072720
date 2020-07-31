@@ -9,7 +9,7 @@ end
 # code an argument here
 # Your code here
 
-planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
+group = ["earth", "wind", "fire", "water", "heart"]
 def summon_captain_planet(group)
   planeteer_calls = []
   group.map do |calls|

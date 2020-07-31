@@ -36,9 +36,9 @@ end
 
 snacks = ["crackers", "gouda", "thyme"]
 soup = ["tomato soup", "cheddar", "oyster crackers", "gouda"] 
-
+cheese_types = ["cheddar", "gouda", "camembert"]
 def find_the_cheese(array)
   array.find do |cheese|
   
-  cheese_types = ["cheddar", "gouda", "camembert"]
+  
 end

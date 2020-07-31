@@ -1,6 +1,6 @@
+# code an argument here
 
-
-def roll_call_dwarves(list)# code an argument here
+def roll_call_dwarves(list)
   # Your code here
 end
 

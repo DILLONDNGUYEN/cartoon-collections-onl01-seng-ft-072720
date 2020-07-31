@@ -33,9 +33,12 @@ end
 
 # code an argument here
 # the array below is here to help
+
 snacks = ["crackers", "gouda", "thyme"]
-soup = 
-def find_the_cheese
+soup = ["tomato soup", "cheddar", "oyster crackers", "gouda"] 
+
+def find_the_cheese(array)
+  array.
   
   cheese_types = ["cheddar", "gouda", "camembert"]
 end

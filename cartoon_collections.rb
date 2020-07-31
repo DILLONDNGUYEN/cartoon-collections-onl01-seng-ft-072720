@@ -20,7 +20,8 @@ end
 
 # code an argument here
 # Your code here
-short_words = 
+short_words = ["puff", "go", "two"]
+assorted_words = 
 def long_planeteer_calls
   
 end

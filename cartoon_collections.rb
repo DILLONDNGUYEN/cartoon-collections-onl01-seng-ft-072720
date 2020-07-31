@@ -10,7 +10,7 @@ end
 # Your code here
 
 planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
-def summon_captain_planet(planeteer_calls)
+def summon_captain_planet(group)
   planeteer_calls = []
   planeteer_calls.map do |calls|
     planeteer_calls << "#{calls.capitalize}!"

@@ -20,7 +20,7 @@ end
 
 # code an argument here
 # Your code here
-words =
+short_words = 
 def long_planeteer_calls
   
 end
